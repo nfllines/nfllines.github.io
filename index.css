@@ -1,0 +1,16 @@
+h1 {
+    color: navy;
+    margin-left: 0px;
+}
+
+#date-dropdown {
+    width:100%;
+}
+
+#team-dropdown {
+    width:100%;
+}
+
+table.table{
+    width:100%
+}
